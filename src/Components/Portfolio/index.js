@@ -27,7 +27,7 @@ function Portfolio(props) {
     },
     {
       url: "http://kitchenerp.com/",
-      title: "Kitchen erp",
+      title: "Kitchen ERP",
       github: "",
       class: "half-box",
       id: "half-box2",
