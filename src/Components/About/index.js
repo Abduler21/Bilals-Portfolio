@@ -1,5 +1,5 @@
 import React from "react";
-import profilePic from "../../assets/images/57726360.jpeg";
+import profilePic from "../../assets/images/bilalersoy.jpeg";
 import "./style.css";
 
 function About(props) {
