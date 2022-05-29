@@ -17,12 +17,12 @@ function About(props) {
         <div class="column"></div>
         <div class="main-section-content">
           <p class="about-p">
-            Performance-driven, conscientious, hard-working recent graduate
-            seeking entry level software engineer, web developer, or software
-            tester roles. Extensive knowledge of JavaScript and React, and
-            experience with both front-end and back-end development. If I'm not
-            coding, you can find me playing basketball, gaming, or playing with
-            my cat who constantly wants to lay on my keyboard.
+            Diligent software engineer and social media specialist with 4+ years
+            experience with a passion for developing innovative programs that
+            expedite the efficiency and effectiveness of organizational success.
+            Well-versed in marketing and writing code to create systems that are
+            reliable and user-friendly. Integrating high level technologies
+            suited for social media platforms..
           </p>
         </div>
       </section>
